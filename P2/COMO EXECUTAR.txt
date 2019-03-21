@@ -1,0 +1,7 @@
+Feito pelos Aluno: Vinícius Higa (RA: 16130346) e Cláudia (RA: 15162472).
+
+PASSOS PARA EXECUTAR:
+
+1) Para executar o BACKEND utilize o comando: node app.js (ou nodemon app.js)
+
+2) Já para o FRONTEND utilize o comando: npm start

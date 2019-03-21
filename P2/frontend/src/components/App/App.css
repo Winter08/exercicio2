@@ -1,0 +1,38 @@
+.chatBox {
+    position: relative;
+    min-height: 80vh !important;
+}
+
+.chatInputs {
+    position: absolute;
+    bottom: 5%;
+}
+
+.chatArea {
+    position: relative;
+    
+    min-width: 98%;
+
+    min-height: 66vh !important;
+    max-height: 66vh !important;
+    overflow-y: scroll;
+}
+
+.btnSend {
+    background-color: #0b2961;
+    color: white;
+}
+
+.btnSend:hover
+{
+background-color: #2b4474;
+color: white;
+}
+
+.chatArea
+{
+background-color: rgb(192, 195, 206);
+
+}
+.logo
+{float:left;}
